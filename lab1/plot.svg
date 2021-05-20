@@ -342,12 +342,12 @@
 	<path stroke='black'  d='M119.2,24.1 L119.2,523.2 L766.3,523.2 L766.3,24.1 L119.2,24.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(25.6,273.7) rotate(-90)" stroke="none" fill="black" font-family="Arial" font-size="16.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >ÐÑÐµÐ¼Ñ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ, Ñ</tspan></text>
+		<text><tspan font-family="Arial" >Lead time, sec</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(442.7,588.4)" stroke="none" fill="black" font-family="Arial" font-size="16.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >ÐÐ¾Ð»Ð¸ÑÐµÑÑÐ²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½ÑÐ¾Ð² Ð² Ð¼Ð°ÑÑÐ¸Ð²Ðµ</tspan></text>
+		<text><tspan font-family="Arial" >Number of elements in array</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -386,10 +386,10 @@
 	<use xlink:href='#gpPt8' transform='translate(326.8,48.1) scale(6.00)' color='rgb(220,  20,  60)'/>
 </g>
 	</g>
-	<g id="gnuplot_plot_2" ><title>Insertion Sort</title>
+	<g id="gnuplot_plot_2" ><title>Insertion sort</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(287.2,77.3)" stroke="none" fill="black" font-family="Arial" font-size="16.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Insertion Sort</tspan></text>
+		<text><tspan font-family="Arial" >Insertion sort</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
